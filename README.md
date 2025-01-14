@@ -1,4 +1,4 @@
-# new_react_router_practice
+# react-router_practice
 
 The project contains several apps with different versions of the react-router.
 
